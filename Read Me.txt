@@ -1,0 +1,15 @@
+I used the directions provided to me during CS 7730 Fundamentals of Data Science to setup Jupyter Notebook.
+
+Python 3.13.2 was used for this Assignment
+
+Please install the following in order for the code to run:
+
+pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab notebook
+
+
+
+I ran everything from Visual Studio Code connecting a Jupyter Notebook to my Python environment.
+
+Alternatively, you can use this command to run the notebook stand alone as a command to run the file was asked for on 1/28/2026 in the news bulletin. I tested the below line of code but didn't use it to run my code, I ran my code directly from the Jupyter Notebook.
+
+jupyter nbconvert --to notebook --execute .\"Final_Report_Matthew_Tankersley.ipynb"
